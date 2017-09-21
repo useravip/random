@@ -7,7 +7,7 @@ Requirements:
 System:
 * python 3.3+
 
-Python:
+Python package:
 
 * Datetime
 * Time
@@ -20,6 +20,6 @@ Python:
 
 * Divide the range of number in upper limit list and lower limit list.
 
-* Get the current microsecond and perform the mod operation with the length of list to generate random index in the list of number.
+* Get the current time microsecond and perform the mod operation with the length of list to generate random index in the list of number.
 
  
